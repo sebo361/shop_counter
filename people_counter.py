@@ -229,8 +229,8 @@ while True:
 	# construct a tuple of information we will be displaying on the
 	# frame
 	info = [
-		("INSIDE STORE", totalUp-totalDown),
-		("Status", status)
+		("Status", status),
+		("INSIDE STORE", totalUp-totalDown)
 	]
 
 	# loop over the info tuples and draw them on our frame
