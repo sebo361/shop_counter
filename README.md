@@ -2,7 +2,7 @@
 
 ```
 conda create -n envName python=3.6
-pip install -r requirements
+pip install -r requirements.txt
 ```
 ## Run System from video file and save output
 ```
