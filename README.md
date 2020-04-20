@@ -9,7 +9,7 @@ pip install -r requirements.txt
 python people_counter.py -i videos/example_01.mp4 -o output/output_01.avi
 ```
 
-## Run System on webcam video file
+## Run System on webcam video file and save output
 ```
 python people_counter.py -o output/webcam_output.avi
 ```
