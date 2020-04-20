@@ -15,3 +15,6 @@ python people_counter.py -i videos/example_01.mp4 -o output/output_01.avi
 ```
 python people_counter.py -o output/webcam_output.avi
 ```
+<img src="/etc/example.png" width="60%">
+
+
